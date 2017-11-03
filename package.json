@@ -1,6 +1,6 @@
 {
   "name": "jec-gpm-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A GlassCat Project Model (GPM) that deploys standard Entrepise JavaScript Projects (EJPs).",
   "repository": {
     "type": "git",

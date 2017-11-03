@@ -15,9 +15,9 @@ JEC Basic GPM needs the following system parameters in order to work correctly:
 
 ## Update Release Notes
 
-**Current stable release:** [1.0.0](CHANGELOG.md#jec-basic-gpm-1.0.0)
+**Current stable release:** [1.0.1](CHANGELOG.md#jec-basic-gpm-1.0.1)
  
-For a complete listing of release notes for all Wildcat Archetypes Project update releases, see the [CHANGELOG](CHANGELOG.md) file. 
+For a complete listing of release notes for the Basic GlassCat Project Model update releases, see the [CHANGELOG](CHANGELOG.md) file. 
 
 ## License
 This JEC Basic GPM is licensed under Apache 2.0. Full license text is available in [LICENSE](LICENSE).
