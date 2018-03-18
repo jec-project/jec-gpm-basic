@@ -1,5 +1,4 @@
 import {HttpJslet, WebJslet, HttpRequest, HttpResponse} from "jec-exchange";
-import {HttpStatusCode} from "jec-commons";
 
 /**
  * GlassCat welcome jslet.
