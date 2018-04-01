@@ -15,7 +15,7 @@ JEC Basic GPM needs the following system parameters in order to work correctly:
 
 ## Update Release Notes
 
-**Current stable release:** [1.0.2](CHANGELOG.md#jec-basic-gpm-1.0.2)
+**Current stable release:** [1.0.3](CHANGELOG.md#jec-basic-gpm-1.0.3)
  
 For a complete listing of release notes for the Basic GlassCat Project Model update releases, see the [CHANGELOG](CHANGELOG.md) file. 
 
