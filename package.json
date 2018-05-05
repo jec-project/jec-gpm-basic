@@ -4,7 +4,7 @@
   "description": "A GlassCat Project Model (GPM) that deploys standard Entrepise JavaScript Projects (EJPs).",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pechemann/jec-gpm-basic.git"
+    "url": "git+https://github.com/jec-project/jec-gpm-basic.git"
   },
   "keywords": [
     "JEC",
@@ -20,7 +20,7 @@
   "author": "Pascal ECHEMANN",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/pechemann/jec-gpm-basic/issues"
+    "url": "https://github.com/jec-project/jec-gpm-basic/issues"
   },
-  "homepage": "https://github.com/pechemann/jec-gpm-basic#readme"
+  "homepage": "https://github.com/jec-project/jec-gpm-basic#readme"
 }
