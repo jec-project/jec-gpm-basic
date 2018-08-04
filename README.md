@@ -1,5 +1,10 @@
 # JEC Basic GPM
 
+[![JEC version](https://img.shields.io/badge/JEC-1.0-%23ba00ff.svg)](http://jecproject.org)
+[![GlassCat version](https://img.shields.io/badge/GlassCat-1.0-%230a50ff.svg)](http://jecproject.org)
+[![npm version](https://badge.fury.io/js/jec-gpm-basic.svg)](https://www.npmjs.com/package/jec-gpm-basic)
+[![Apache 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 The Basic GlassCat Project Model provides the default archetype for the [GlassCat Application Server][jec-glasscat-url].
 It allows developers to easily deploy an EJP application based on the jslet specification.
 
@@ -15,7 +20,7 @@ JEC Basic GPM needs the following system parameters in order to work correctly:
 
 ## Update Release Notes
 
-**Current stable release:** [1.0.3](CHANGELOG.md#jec-basic-gpm-1.0.3)
+**Current stable release:** [1.0.3](CHANGELOG.md#jec-gpm-basic-1.0.3)
  
 For a complete listing of release notes for the Basic GlassCat Project Model update releases, see the [CHANGELOG](CHANGELOG.md) file. 
 
